@@ -1,4 +1,4 @@
-<h3 align="center">AI Engineer [ DOMAINS : Deep Learning and Applied AI | Dev ]</h3>
+<h3 align="center">AI Engineer [ DOMAINS : Deep Learning and Applied AI ]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitreyam&label=Profile%20views&color=0e75b6&style=flat" alt="maitreyam" /> </p>
 
